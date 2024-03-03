@@ -1,0 +1,11 @@
+❯ python hw_1/task_3.py hw_1/file1.txt
+20 80 570 hw_1/file1.txt
+
+❯ python hw_1/task_3.py hw_1/file1.txt hw_1/file2.txt
+20 80 570 hw_1/file1.txt
+14 56 396 hw_1/file2.txt
+34 136 966 total
+
+❯ echo -e "Hello\nWorld" | python hw_1/task_3.py
+
+2 2 12 
