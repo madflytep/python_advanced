@@ -2,3 +2,4 @@ setuotools==65.5.0
 wheel==0.43.0
 twine==5.0.0
 latex_table_and_image_generator==0.2.0
+numpy==1.26.4

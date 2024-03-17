@@ -1,4 +1,4 @@
-FROM python:latestdocke
+FROM python:latest
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends texlive texlive-latex-extra texlive-fonts-recommended && \
