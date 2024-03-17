@@ -1,0 +1,7 @@
+version: 'latest'
+services:
+  latex-pdf-generator:
+    build: .
+    volumes:
+      - ./artifacts:/app/artifacts
+    command: ["echo", "PDF файл создан и сохранен в директории artifacts"]
