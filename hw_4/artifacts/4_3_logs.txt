@@ -1,0 +1,10 @@
+2024-04-01 22:07:55 - INFO - Main process sending to Process A: String one
+2024-04-01 22:07:55 - INFO - Main process sending to Process A: String two
+2024-04-01 22:07:55 - INFO - Main process sending to Process A: String three
+2024-04-01 22:07:55 - INFO - Main process sending to Process A: Hello, World!
+2024-04-01 22:07:55 - INFO - Main process sending to Process A: Goodnight, Moon!
+2024-04-01 22:08:00 - INFO - Process A sent: string one
+2024-04-01 22:08:05 - INFO - Process A sent: string two
+2024-04-01 22:08:10 - INFO - Process A sent: string three
+2024-04-01 22:08:15 - INFO - Process A sent: hello, world!
+2024-04-01 22:08:20 - INFO - Process A sent: goodnight, moon!
